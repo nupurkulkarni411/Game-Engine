@@ -1,0 +1,20 @@
+﻿Build started 07-03-2017 11:51:22.
+     1>Project "D:\Users\pakulkarni\Documents\Visual Studio 2012\Projects\BabyCryEngine\Test\Test.vcxproj" on node 2 (Build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\Test.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Users\pakulkarni\Documents\Visual Studio 2012\Projects\BabyCryEngine\Debug\Test.exe" /INCREMENTAL /NOLOGO /LIBPATH:"D:\Users\pakulkarni\Documents\Visual Studio 2012\Projects\BabyCryEngine\Debug" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib BabyCryEngine.lib d3dx9dt.lib d3d9.lib dinput8.lib d3dxof.lib dxguid.lib dsound.lib winmm.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /NODEFAULTLIB:libcd.lib /NODEFAULTLIB:libcp.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Users\pakulkarni\Documents\Visual Studio 2012\Projects\BabyCryEngine\Debug\Test.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Users\pakulkarni\Documents\Visual Studio 2012\Projects\BabyCryEngine\Debug\Test.lib" /MACHINE:X86 Debug\Resource.res
+         Debug\Test.obj
+         Test.vcxproj -> D:\Users\pakulkarni\Documents\Visual Studio 2012\Projects\BabyCryEngine\Debug\Test.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Test.unsuccessfulbuild".
+         Touching "Debug\Test.lastbuildstate".
+     1>Done Building Project "D:\Users\pakulkarni\Documents\Visual Studio 2012\Projects\BabyCryEngine\Test\Test.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.77

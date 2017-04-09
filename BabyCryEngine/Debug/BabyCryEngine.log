@@ -1,0 +1,151 @@
+﻿Build started 07-03-2017 11:50:11.
+     1>Project "D:\Users\pakulkarni\Documents\Visual Studio 2012\Projects\BabyCryEngine\BabyCryEngine\BabyCryEngine.vcxproj" on node 2 (Rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Debug\BabyCryEngine.lastbuildstate".
+       InitializeBuildStatus:
+         Creating "Debug\BabyCryEngine.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt DeviceEnumeration.cpp Engine.cpp Font.cpp Input.cpp Scripting.cpp SoundSystem.cpp State.cpp
+         State.cpp
+     1>c:\program files (x86)\microsoft directx 9.0 sdk (october 2004)\include\dmerror.h(12): warning C4005: 'FACILITY_DIRECTMUSIC' : macro redefinition
+                 c:\program files (x86)\windows kits\8.0\include\shared\winerror.h(157) : see previous definition of 'FACILITY_DIRECTMUSIC'
+         SoundSystem.cpp
+     1>c:\program files (x86)\microsoft directx 9.0 sdk (october 2004)\include\dmerror.h(12): warning C4005: 'FACILITY_DIRECTMUSIC' : macro redefinition
+                 c:\program files (x86)\windows kits\8.0\include\shared\winerror.h(157) : see previous definition of 'FACILITY_DIRECTMUSIC'
+         Scripting.cpp
+     1>c:\program files (x86)\microsoft directx 9.0 sdk (october 2004)\include\dmerror.h(12): warning C4005: 'FACILITY_DIRECTMUSIC' : macro redefinition
+                 c:\program files (x86)\windows kits\8.0\include\shared\winerror.h(157) : see previous definition of 'FACILITY_DIRECTMUSIC'
+     1>d:\users\pakulkarni\documents\visual studio 2012\projects\babycryengine\babycryengine\scripting.cpp(8): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+     1>d:\users\pakulkarni\documents\visual studio 2012\projects\babycryengine\babycryengine\scripting.cpp(15): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : see declaration of 'fscanf'
+     1>d:\users\pakulkarni\documents\visual studio 2012\projects\babycryengine\babycryengine\scripting.cpp(21): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : see declaration of 'fscanf'
+     1>d:\users\pakulkarni\documents\visual studio 2012\projects\babycryengine\babycryengine\scripting.cpp(37): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : see declaration of 'fscanf'
+     1>d:\users\pakulkarni\documents\visual studio 2012\projects\babycryengine\babycryengine\scripting.cpp(39): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : see declaration of 'fscanf'
+     1>d:\users\pakulkarni\documents\visual studio 2012\projects\babycryengine\babycryengine\scripting.cpp(41): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : see declaration of 'fscanf'
+     1>d:\users\pakulkarni\documents\visual studio 2012\projects\babycryengine\babycryengine\scripting.cpp(43): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : see declaration of 'fscanf'
+     1>d:\users\pakulkarni\documents\visual studio 2012\projects\babycryengine\babycryengine\scripting.cpp(55): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : see declaration of 'fscanf'
+     1>d:\users\pakulkarni\documents\visual studio 2012\projects\babycryengine\babycryengine\scripting.cpp(67): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : see declaration of 'fscanf'
+     1>d:\users\pakulkarni\documents\visual studio 2012\projects\babycryengine\babycryengine\scripting.cpp(80): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : see declaration of 'fscanf'
+     1>d:\users\pakulkarni\documents\visual studio 2012\projects\babycryengine\babycryengine\scripting.cpp(97): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : see declaration of 'fscanf'
+     1>d:\users\pakulkarni\documents\visual studio 2012\projects\babycryengine\babycryengine\scripting.cpp(106): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : see declaration of 'fscanf'
+     1>d:\users\pakulkarni\documents\visual studio 2012\projects\babycryengine\babycryengine\scripting.cpp(116): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(115) : see declaration of 'strcat'
+     1>d:\users\pakulkarni\documents\visual studio 2012\projects\babycryengine\babycryengine\scripting.cpp(118): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(115) : see declaration of 'strcat'
+     1>d:\users\pakulkarni\documents\visual studio 2012\projects\babycryengine\babycryengine\scripting.cpp(122): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+     1>d:\users\pakulkarni\documents\visual studio 2012\projects\babycryengine\babycryengine\scripting.cpp(131): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : see declaration of 'fscanf'
+     1>d:\users\pakulkarni\documents\visual studio 2012\projects\babycryengine\babycryengine\scripting.cpp(133): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : see declaration of 'fscanf'
+     1>d:\users\pakulkarni\documents\visual studio 2012\projects\babycryengine\babycryengine\scripting.cpp(135): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : see declaration of 'fscanf'
+     1>d:\users\pakulkarni\documents\visual studio 2012\projects\babycryengine\babycryengine\scripting.cpp(146): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : see declaration of 'fscanf'
+     1>d:\users\pakulkarni\documents\visual studio 2012\projects\babycryengine\babycryengine\scripting.cpp(148): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+     1>d:\users\pakulkarni\documents\visual studio 2012\projects\babycryengine\babycryengine\scripting.cpp(157): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+     1>d:\users\pakulkarni\documents\visual studio 2012\projects\babycryengine\babycryengine\scripting.cpp(187): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+     1>d:\users\pakulkarni\documents\visual studio 2012\projects\babycryengine\babycryengine\scripting.cpp(197): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+     1>d:\users\pakulkarni\documents\visual studio 2012\projects\babycryengine\babycryengine\scripting.cpp(251): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+     1>d:\users\pakulkarni\documents\visual studio 2012\projects\babycryengine\babycryengine\scripting.cpp(257): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : see declaration of 'fscanf'
+     1>d:\users\pakulkarni\documents\visual studio 2012\projects\babycryengine\babycryengine\scripting.cpp(273): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : see declaration of 'fscanf'
+     1>d:\users\pakulkarni\documents\visual studio 2012\projects\babycryengine\babycryengine\scripting.cpp(331): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+     1>d:\users\pakulkarni\documents\visual studio 2012\projects\babycryengine\babycryengine\scripting.cpp(336): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+     1>d:\users\pakulkarni\documents\visual studio 2012\projects\babycryengine\babycryengine\scripting.cpp(351): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+     1>d:\users\pakulkarni\documents\visual studio 2012\projects\babycryengine\babycryengine\scripting.cpp(353): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+     1>d:\users\pakulkarni\documents\visual studio 2012\projects\babycryengine\babycryengine\scripting.cpp(359): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+     1>d:\users\pakulkarni\documents\visual studio 2012\projects\babycryengine\babycryengine\scripting.cpp(365): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+     1>d:\users\pakulkarni\documents\visual studio 2012\projects\babycryengine\babycryengine\scripting.cpp(371): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+     1>d:\users\pakulkarni\documents\visual studio 2012\projects\babycryengine\babycryengine\scripting.cpp(377): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+     1>d:\users\pakulkarni\documents\visual studio 2012\projects\babycryengine\babycryengine\scripting.cpp(383): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+     1>d:\users\pakulkarni\documents\visual studio 2012\projects\babycryengine\babycryengine\scripting.cpp(389): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+     1>d:\users\pakulkarni\documents\visual studio 2012\projects\babycryengine\babycryengine\resourcemanagement.h(29): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+                 d:\users\pakulkarni\documents\visual studio 2012\projects\babycryengine\babycryengine\resourcemanagement.h(11) : while compiling class template member function 'Resource<Type>::Resource(char *,char *)'
+                 with
+                 [
+                     Type=Script
+                 ]
+                 d:\users\pakulkarni\documents\visual studio 2012\projects\babycryengine\babycryengine\scripting.cpp(248) : see reference to function template instantiation 'Resource<Type>::Resource(char *,char *)' being compiled
+                 with
+                 [
+                     Type=Script
+                 ]
+                 d:\users\pakulkarni\documents\visual studio 2012\projects\babycryengine\babycryengine\scripting.h(31) : see reference to class template instantiation 'Resource<Type>' being compiled
+                 with
+                 [
+                     Type=Script
+                 ]
+         Input.cpp
+     1>c:\program files (x86)\microsoft directx 9.0 sdk (october 2004)\include\dmerror.h(12): warning C4005: 'FACILITY_DIRECTMUSIC' : macro redefinition
+                 c:\program files (x86)\windows kits\8.0\include\shared\winerror.h(157) : see previous definition of 'FACILITY_DIRECTMUSIC'
+         Font.cpp
+     1>c:\program files (x86)\microsoft directx 9.0 sdk (october 2004)\include\dmerror.h(12): warning C4005: 'FACILITY_DIRECTMUSIC' : macro redefinition
+                 c:\program files (x86)\windows kits\8.0\include\shared\winerror.h(157) : see previous definition of 'FACILITY_DIRECTMUSIC'
+         Engine.cpp
+     1>c:\program files (x86)\microsoft directx 9.0 sdk (october 2004)\include\dmerror.h(12): warning C4005: 'FACILITY_DIRECTMUSIC' : macro redefinition
+                 c:\program files (x86)\windows kits\8.0\include\shared\winerror.h(157) : see previous definition of 'FACILITY_DIRECTMUSIC'
+         DeviceEnumeration.cpp
+     1>c:\program files (x86)\microsoft directx 9.0 sdk (october 2004)\include\dmerror.h(12): warning C4005: 'FACILITY_DIRECTMUSIC' : macro redefinition
+                 c:\program files (x86)\windows kits\8.0\include\shared\winerror.h(157) : see previous definition of 'FACILITY_DIRECTMUSIC'
+     1>d:\users\pakulkarni\documents\visual studio 2012\projects\babycryengine\babycryengine\deviceenumeration.cpp(45): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+     1>d:\users\pakulkarni\documents\visual studio 2012\projects\babycryengine\babycryengine\deviceenumeration.cpp(47): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+         Generating Code...
+     1>d:\users\pakulkarni\documents\visual studio 2012\projects\babycryengine\babycryengine\scripting.cpp(409): warning C4715: 'Script::GetBoolData' : not all control paths return a value
+     1>d:\users\pakulkarni\documents\visual studio 2012\projects\babycryengine\babycryengine\scripting.cpp(417): warning C4715: 'Script::GetColorData' : not all control paths return a value
+     1>d:\users\pakulkarni\documents\visual studio 2012\projects\babycryengine\babycryengine\scripting.cpp(425): warning C4715: 'Script::GetFloatData' : not all control paths return a value
+     1>d:\users\pakulkarni\documents\visual studio 2012\projects\babycryengine\babycryengine\scripting.cpp(433): warning C4715: 'Script::GetNumberData' : not all control paths return a value
+     1>d:\users\pakulkarni\documents\visual studio 2012\projects\babycryengine\babycryengine\scripting.cpp(441): warning C4715: 'Script::GetStringData' : not all control paths return a value
+     1>d:\users\pakulkarni\documents\visual studio 2012\projects\babycryengine\babycryengine\scripting.cpp(449): warning C4715: 'Script::GetVectorData' : not all control paths return a value
+     1>d:\users\pakulkarni\documents\visual studio 2012\projects\babycryengine\babycryengine\scripting.cpp(457): warning C4715: 'Script::GetUnknownData' : not all control paths return a value
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Debug\Resource.res" Resource.rc 
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\Lib.exe /OUT:"D:\Users\pakulkarni\Documents\Visual Studio 2012\Projects\BabyCryEngine\Debug\BabyCryEngine.lib" "C:\Program Files (x86)\Microsoft DirectX 9.0 SDK (October 2004)\Lib\dxguid.lib" /NOLOGO Debug\Resource.res
+         Debug\DeviceEnumeration.obj
+         Debug\Engine.obj
+         Debug\Font.obj
+         Debug\Input.obj
+         Debug\Scripting.obj
+         Debug\SoundSystem.obj
+         Debug\State.obj
+     1>LINK : warning LNK4068: /MACHINE not specified; defaulting to X86
+         BabyCryEngine.vcxproj -> D:\Users\pakulkarni\Documents\Visual Studio 2012\Projects\BabyCryEngine\Debug\BabyCryEngine.lib
+       FinalizeBuildStatus:
+         Deleting file "Debug\BabyCryEngine.unsuccessfulbuild".
+         Touching "Debug\BabyCryEngine.lastbuildstate".
+     1>Done Building Project "D:\Users\pakulkarni\Documents\Visual Studio 2012\Projects\BabyCryEngine\BabyCryEngine\BabyCryEngine.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.09
